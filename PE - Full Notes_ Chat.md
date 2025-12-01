@@ -1,14 +1,9 @@
-Below is a complete and easy-to-understand guide for FileNet Process Engine (PE) / Workflow system, covering:
-
 ✔ What is Process Engine
 ✔ Workflow creation (Process Designer)
 ✔ Workflow configuration (Process Administrator)
 ✔ Workflow monitoring (Process Tracker)
 ✔ How everything works internally
 ✔ How to connect using Java API (VWSession & CE Workflow API)
-
-This is the complete beginners + advanced explanation.
-
 
 ---
 
@@ -426,16 +421,3 @@ Process Tracker	Monitor running workflows
 PCC	Configure PE
 Java API (VWSession)	Direct PE connection
 Java API (CE Workflow API)	Modern, indirect, secure
-
-
-
----
-
-If you want, I can also provide:
-
-📌 Workflow architecture diagram
-📌 End-to-end sequence diagram
-📌 Real-time sample workflow XPDL file
-📌 Java utility class for all workflow operations
-
-Just tell me!
